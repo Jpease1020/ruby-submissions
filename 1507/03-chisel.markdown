@@ -64,7 +64,7 @@
 
 ## Justin Pease
 
-* GitHub URL:
+* GitHub URL: https://github.com/Jpease1020/Chisel1.2
 
 ### Notes
 
