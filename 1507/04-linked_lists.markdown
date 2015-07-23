@@ -74,7 +74,7 @@
 
 ### Justin Pease
 
-* GitHub URL:
+* GitHub URL: https://github.com/Jpease1020/Linked_Lists
 
 #### Notes
 
