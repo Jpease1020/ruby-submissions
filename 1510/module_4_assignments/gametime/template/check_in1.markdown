@@ -1,12 +1,10 @@
-Complete this Form and the README.md before the first check in. Delete this line from your version.
-
 # Game Time Check In # 1
 
 ## Basics
 
 ### Team
-- [TeamMate1](https://github.com/tenderlove)
-- [TeamMate2](https://github.com/wycats)
+- [TeamMate1](https://github.com/)
+- [TeamMate2](https://github.com/)
 
 ### Game Name
 
@@ -14,39 +12,29 @@ Snek
 
 ### Give a Basic Description of the Game
 
-Snek eats pellets - grows and tries not to run into itself
+A player moves a round blob across a screen eating small static blobs which make the player's blob bigger.  Other players move thier blobs around also eating the static blobs.  Players can eat eachother.  If you eat another player, you grow bigger.  If another player eats you, you lose and the game is over.
 
 ### Include a Link to or Screen Shot of the Game
 
-[Snek](http://imgur.com/gallery/owNiA)
+[Snek](http://g.recordit.co/sJYgJe8Pdc.gif)
 
 ### Link to the Github repository for the project
-[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
+[Your Repo]()
 
 ## The Plan
 
 ### Describe Your goals for the finished product
 
-e.g.
-
-- Snake moves around screen
-- Snake can eat pellets
-- When a pellet is eaten, the snake grows in length
-- If the snake hits itself, the game ends
-- Snake is rainbow colored, changes color throughout game
-- If the user navigates away, snake game pauses
-- Crazy Mode makes the snake change speeds randomly
-- Pellets are instructor's faces and they make a sound when they get eaten
-- Cat mode turns the snake into Nyan Cat
+- Blog moves around the screen eating small preset blobs
+- Eating blobs makes the players blog grow in size
+- A second blog can play at the same time and they can eat each other
+- If you get eaten, you lose the game.  
+- If you eat another player they lose and your blob grows bigger
+- The bigger you grow, the slower you move
 
 ### What is your MVP, or 'this was harder than I thought' plan?
 
-e.g.
-
-- Snake moves around screen
-- Snake can eat pellets
-- When a pellet is eaten, the snake grows in length
-- Is the snake hits itself, the game ends
+- A player's blob moves around the screen eating other blobs growing in size 
 
 ### What have you accomplished so far?
 
